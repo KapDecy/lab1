@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, master!");
+    println!("Hello, Branch2!");
 }
